@@ -31,7 +31,8 @@ if($_SERVER['REQUEST_METHOD']=='GET'){
 			"aseguradora_mapfre"=>$res['aseguradora_mapfre'],
 			"aseguradora_qualitas"=>$res['aseguradora_qualitas'],
 			"aseguradora_atlas"=>$res['aseguradora_atlas'],
-			"google_play_agencia"=>$res['google_play_agencia']
+			"google_play_agencia"=>$res['google_play_agencia'],
+			"email_taller"=>$res['email_taller']
 	)
 			);
 
